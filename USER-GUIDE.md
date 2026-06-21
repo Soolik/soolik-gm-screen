@@ -4,7 +4,7 @@ A toolkit for Pathfinder 2e Game Masters on Foundry VTT. This guide explains, fo
 every feature: what it does, where to find its button, exactly what you click, and
 when you would use it.
 
-Works on Foundry VTT v13 and v14 (tested on 14.363), Pathfinder 2e system.
+Works on Foundry VTT v14 (verified on 14.363), Pathfinder 2e system.
 
 ---
 

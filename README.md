@@ -3,7 +3,7 @@
 A toolkit for Pathfinder 2e Game Masters on Foundry VTT. Everything you run from
 behind the screen, in one module. Actively maintained, English and Polish.
 
-Compatible with Foundry VTT v13 and v14 (tested on 14.363), Pathfinder 2e system.
+Compatible with Foundry VTT v14 (verified on 14.363), Pathfinder 2e system.
 
 > The believable-fake-item trick nobody else has, the only investigation board your
 > players build together in real time, and a merchant generator that actually looks
@@ -62,7 +62,7 @@ Coming soon.
 
 ## Compatibility
 
-- Foundry VTT v13 and v14 (verified on 14.363).
+- Foundry VTT v14 (verified on 14.363).
 - Pathfinder 2e system.
 - English and Polish.
 
